@@ -31,6 +31,7 @@ Vanilla Tweaks
     - **TUTORIAL:** https://www.youtube.com/watch?v=nV9-_RacnoI
 
 - **Coordinates HUD:** adds **coords** and a **24 hour clock** above hotbar USE: **/trigger ch_toggle** to toggle
+    - ***Coordinates HUD will cover McMMO recharge popup when trying to use tool abilities***
 - **Timber:** trees can be **instantly chopped** using an **axe** USE: **/trigger TimberToggle** to toggle
 
 - **Player Head Drops:** players drop heads when killed by another player
