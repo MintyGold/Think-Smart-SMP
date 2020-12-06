@@ -28,7 +28,7 @@ Basic Commands:
 
 Vanilla Tweaks
 - **Armor Statues:** use a book to **alter properties** of armor stands
--   **TUTORIAL:** https://www.youtube.com/watch?v=nV9-_RacnoI
+    - **TUTORIAL:** https://www.youtube.com/watch?v=nV9-_RacnoI
 
 - **Coordinates HUD:** adds **coords** and a **24 hour clock** above hotbar USE: **/trigger ch_toggle** to use
 - **Timber:** trees can be **instantly chopped** using an **axe** USE: **/trigger TimberToggle** to use
