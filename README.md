@@ -27,15 +27,15 @@ Basic Commands:
 ## Datapack:
 
 Vanilla Tweaks
-- Armor Statues: use a book to **alter properties** of armor stands
-- **TUTORIAL:** https://www.youtube.com/watch?v=nV9-_RacnoI
+- **Armor Statues:** use a book to **alter properties** of armor stands
+-   **TUTORIAL:** https://www.youtube.com/watch?v=nV9-_RacnoI
 
-- Coordinates HUD: adds **coords** and a **24 hour clock** above hotbar USE: **/trigger ch_toggle** to use
-- Timber: trees can be **instantly chopped** using an **axe** USE: **/trigger TimberToggle** to use
+- **Coordinates HUD:** adds **coords** and a **24 hour clock** above hotbar USE: **/trigger ch_toggle** to use
+- **Timber:** trees can be **instantly chopped** using an **axe** USE: **/trigger TimberToggle** to use
 
-- Player Head Drops: players drop heads when killed by another player
-- Mob Head Drops: mobs have a chance to drop a head
-- Double Shulker Drops: all shulkers drop 2 shells
-- Fast leaf decay: leaves decay faster
-- Afk Display: greys out name after 5 min of no movement
-- Multiplayer Sleep: not all players need to sleep
+- **Player Head Drops:** players drop heads when killed by another player
+- **Mob Head Drops:** mobs have a chance to drop a head
+- **Double Shulker Drops:** all shulkers drop 2 shells
+- **Fast leaf decay:** leaves decay faster
+- **Afk Display:** greys out name after 5 min of no movement
+- **Multiplayer Sleep:** not all players need to sleep
